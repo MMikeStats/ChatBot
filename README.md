@@ -1,6 +1,9 @@
-# ChatGPT Clone with React and TypeScript
+# ChatGPT Clone with React
 
 This is a simple example of a React ChatGPT clone built using v0 and Replit.
+
+## Screenshot
+![ChatGPT Clone Screenshot](screenshot.webp) 
 
 ## Getting Started
 
