@@ -1,13 +1,18 @@
-## Running React on Replit
+# ChatGPT Clone with React and TypeScript
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+This is a simple example of a React ChatGPT clone built using v0 and Replit.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Getting Started
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+1. **Paste your API key:** Replace `YOUR_API_KEY` in `.env.example` with your OpenAI API key.
+2. **Rename file:** Rename `.env.example` to `.env`.
+3. **Run on Replit:** This project is designed to be easily run on Replit. Simply fork the repository and click the "Run" button.
 
-### Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
+**Note:** This is a basic example intended for learning purposes. It does not include advanced features like user authentication, chat history persistence, or error handling.
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+## Features
+
+* Basic chat interface
+* Sends messages to OpenAI API and displays responses
+* **Built with TypeScript for enhanced type safety**
+* **Uses Replit for easy setup and deployment**
